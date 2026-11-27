@@ -2,11 +2,11 @@
   "type": "conference",
   "year": 2026,
   "title": "MEASURE: Multi-Task Slice Selection and Regression for Neonatal Brain Biometry",
-  "venue": "MICCAI",
+  "venue": "Medical Image Computing and Computer Assisted Intervention (MICCAI), 2026",
   "volume": "",
   "pages": "",
   "authors": "Jiyang Lee, Woori Bae, Dabin Kim, Jong-Min Lee†, Seh Hyun Kim†",
   "link_url": "",
   "is_highlight": false,
-  "in_press": true
+  "in_press": false
 }
